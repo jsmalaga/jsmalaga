@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jsmalaga
-- 👀 I’m interested in Telecoms, IT and Mining
-- 🌱 I’m currently learning Mining
+- 👀 I’m interested in Telecoms, IT and Crypto Mining
+- 🌱 I’m currently learning Crypto and Crypto Mining
 - 💞️ I’m looking to collaborate on Mining projects.
 - 📫 How to reach me I am in Cardiff, Wales, UK and I rather keep my details private from now...
 
