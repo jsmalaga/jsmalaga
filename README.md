@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jsmalaga
 - 👀 I’m interested in Telecoms, IT, Cloud and Crypto
-- 🌱 I’m currently learning Crypto and Crypto Mining
+- 🌱 I’m currently looking to change job roles from Telecom CCaaS to Cloud IaaS and PaaS, and learning about Crypto and blockchain.
 - 💞️ I’m looking to collaborate on Cloud Computing projects.
 - 📫 How to reach me I am in Cardiff, Wales, UK and I rather keep my details private from now...
 
